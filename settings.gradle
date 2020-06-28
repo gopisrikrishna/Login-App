@@ -1,0 +1,3 @@
+include ':mysql'
+include ':app'
+rootProject.name = "Login (sql con)"
